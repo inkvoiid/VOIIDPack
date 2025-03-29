@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dark_oak_planks",
+		"weight": 1
+	  },
+	  {
+        "model": "minecraft:block/dark_oak_planks_alt",
+		"weight": 4
+	  },
+	  {
+        "model": "minecraft:block/dark_oak_planks_alt2",
+		"weight": 4
+	  },
+	  {
+        "model": "minecraft:block/dark_oak_planks_alt3",
+		"weight": 10
+	  }
+    ]
+  }
+}

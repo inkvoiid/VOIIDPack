@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/cobblestone",
+		"weight": 5
+	  },
+	  {
+        "model": "minecraft:block/cobblestone_alt",
+		"weight": 3
+	  },
+	  {
+        "model": "minecraft:block/cobblestone_alt2",
+		"weight": 1
+	  },
+	  {
+        "model": "minecraft:block/cobblestone_alt3",
+		"weight": 4
+	  },
+	  {
+        "model": "minecraft:block/cobblestone_alt4",
+		"weight": 2
+	  }
+    ]
+  }
+}

@@ -5,20 +5,15 @@
 [![GitHub forks](https://img.shields.io/github/forks/inkvoiid/VOIIDPack.svg)](https://github.com/inkvoiid/VOIIDPack/network)
 [![GitHub stars](https://img.shields.io/github/stars/inkvoiid/VOIIDPack.svg)](https://github.com/inkvoiid/VOIIDPack/stargazers)
 
-A brief description of your Minecraft resource pack. Mention what makes it unique and any key features.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
-
 VOIIDPack is a soft, cartoonish reimagining of Minecraft. Started before the 1.14 texture update, it was my attempt of making the textures less harsh. It has since turned into my on again off again project, as the new Minecraft textures largely provide what I was looking for.
 
 This pack is in no way finished (sadge), but it does also have very minor mod support.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Installation
 

@@ -2,7 +2,16 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/netherrack"
+        "model": "minecraft:block/netherrack",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/netherrack_alt",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/netherrack_alt2",
+        "weight": 1
       }
     ]
   }
